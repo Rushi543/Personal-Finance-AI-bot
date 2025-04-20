@@ -6,7 +6,7 @@ This is an AI-powered personal finance chatbot built with **Streamlit**, **Gemin
 - Automatically generate insights and summaries
 - Visualize their financial activity using interactive charts
 
-🚀 **[Click here to try the app live!]([https://<your-streamlit-app-url>](https://personal-finance-ai-bot-7dytnqnkasttrqixwgww95.streamlit.app/))**
+🚀 **[Click here to try the app live!](https://personal-finance-ai-bot-7dytnqnkasttrqixwgww95.streamlit.app/)**
 
 ---
 
