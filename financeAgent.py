@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from datetime import datetime, date as dt_date, timedelta
 import plotly.express as px
 import matplotlib.pyplot as plt
+import streamlit as st
 load_dotenv()
 
 GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY") or os.getenv("GOOGLE_API_KEY")
