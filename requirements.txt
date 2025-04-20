@@ -1,5 +1,3 @@
-openai
-uagents
 pydantic
 dotenv
 requests
